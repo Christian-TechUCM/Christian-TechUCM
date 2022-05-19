@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Christian-TechUCM
-- 👀 I’m interested in my  4th year of college
+- 👀 I’m in my  4th year of college
 - 🌱 I’m currently working on attaining my degree in Computer Science & Engineering
 
 <!---
