@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Christian-TechUCM
-- 👀 I’m in my  4th year of college
-- 🌱 I’m currently working on attaining my degree in Computer Science & Engineering
+- 👀 I’m  a software engineer in the education sector
+- 🌱 I attained my degree in Computer Science & Engineering
 -  ✨ Check out my Online CV   https://christianurbina.com  ✨
 
 <!---
